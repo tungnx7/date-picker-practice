@@ -1,0 +1,8 @@
+.date-header {
+    font-size: 3rem;
+    margin-top: 3rem;
+    font-weight: 700;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
